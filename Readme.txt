@@ -56,3 +56,7 @@ git branch
 git remote add origin "url of repository"
  
 git push -u origin main
+
+
+brew install --cask dotnet-sdk
+
